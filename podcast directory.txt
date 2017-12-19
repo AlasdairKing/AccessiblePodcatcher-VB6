@@ -1,0 +1,4 @@
+http://www.podcastpickle.com/podPlayer/new/exportGenres.php
+http://www.podfeeder.com/allshows.opml
+http://www.syndic8.com/genfeed.php?Format=opml
+http://www.ipodder.org/discuss/reader$4.opml

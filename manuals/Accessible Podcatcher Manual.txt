@@ -1,0 +1,28 @@
+Accessible Podcatcher
+support@webbie.org.uk
+
+Welcome to Accessible Podcatcher (previously Accessible Podcaster). This lets you listen to podcasts from websites and download them for listening later. These are audio files that you can listen to over the Internet or on a local computer or player. 
+
+Quick Guide
+When Accessible Podcatcher starts up you are presented with a list of available podcasts. Press return to open one and you will be presented with a list of available items in that podcast. Select one and press return and it will play. Press escape to stop it. You can also use Control and P to play. You can access the list of podcasts with Alt and P and the list of items with Alt and I at any time. Press Control and D to decrease the volume and Control and I to increase the volume.
+
+Saving items
+When you have selected a podcast and item you can save it. Press Control and S or select Save from the File menu. The audio item will be saved to your computer. 
+
+Skipping (forwarding), rewinding, changing the volume and pausing
+Press Alt and V to access the volume control and left and right to change the volume, or just press Control and I to increase and Control and D to decrease the volume. You can pause the audio by pressing Control and U: press Play or Control and P to restart. You can move ahead in the podcast by 30 seconds by pressing Control and F. You can go back by selecting the Back button or Skip backwards option from the Audio menu.
+
+Handling Podcasts
+You can add podcasts to the available list. Select the Podcasts menu and the Add Podcast menu item. Enter a name and the web address or URL for the podcast: the URL will be something like "http://www.site.com/cast.rss". If Accessible Podcatcher can access it and use it it will be added to the list. To remove a podcast select it from the list and press the Delete button (Alt and D). To edit its name or URL select Edit podcast from the Podcasts menu: you will prompted for any changes you wish to make. You can also sort the list of podcasts into alphabetical order by selecting Sort from the Podcasts menu: this is permanent, but future additions to the list will not be sorted - you have to sort it again.
+
+Saving and getting podcasts
+You can import list of podcasts you get from websites or other people: select Import from the File menu. You can save your list of podcasts to send to someone else or to use in another application: select Export from the File menu and provide a name for the list. Podcast lists are saved as OPML files. 
+
+Finding new podcasts
+You can add new podcasts to the list using Accessible Podcast Directory. This lets you access online Podcast directories and select podcasts you want to try out with Accessible Podcatcher.
+
+Help and Support
+For help, suggestions or questions, contact Alasdair King on support@webbie.org.uk or +44 (0) 161 306 5832. See http://www.webbie.org.uk for more information.
+
+Copyright Alasdair King 2006
+Thanks to users for design and bug problems.

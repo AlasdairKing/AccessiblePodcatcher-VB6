@@ -1,0 +1,15 @@
+*.bas
+*.frm
+*.cls
+*.vbp
+*.vbw
+*.frx
+*.lic
+*.ini
+*.xml
+*.bat
+*.txt
+*.lsc
+..\Common\*.cls
+..\Common\*.frm
+..\Common\*.bas

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity name="PodcastReviewer.exe" version="1.0.0.0" type="win32" />
+  
+  <file name="UniBox10.ocx" asmv2:size="880640">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>78pUrp5k/X/xxG1GGenxnSInJ1c=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{d0d653fb-b36f-4918-9648-3c495e456dc4}" version="1.5" helpdir="C:\Program Files\Woodbury Associates\UniToolbox 1.0\UniToolbox.hlp" resourceid="0" flags="CONTROL,HASDISKIMAGE" />
+    <comClass clsid="{eb9a33fa-86b5-4050-b8a5-0abaa5c5973b}" threadingModel="Apartment" tlbid="{d0d653fb-b36f-4918-9648-3c495e456dc4}" progid="UniToolbox.UniLabel.10" description="UniLabel" />
+    <comClass clsid="{d946042b-5aed-4988-b721-84e910a0b3e0}" threadingModel="Apartment" tlbid="{d0d653fb-b36f-4918-9648-3c495e456dc4}" progid="UniToolbox.UniText.10" description="UniText" />
+    <comClass clsid="{b85cd671-8188-4b04-99b9-eb2f764a958c}" threadingModel="Apartment" tlbid="{d0d653fb-b36f-4918-9648-3c495e456dc4}" progid="UniToolbox.UniList.10" description="UniList" />
+    <comClass clsid="{3eb42fca-dd24-446a-8044-08a9d33e18d6}" threadingModel="Apartment" tlbid="{d0d653fb-b36f-4918-9648-3c495e456dc4}" progid="UniToolbox.UniCombo.10" description="UniCombo" />
+  </file>
+
+</assembly>
